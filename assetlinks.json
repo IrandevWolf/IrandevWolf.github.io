@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.wolfapp.punishment2",
+      "sha256_cert_fingerprints": [
+        "D2:F3:A3:E4:EC:3D:04:4D:6B:78:A5:E2:12:58:81:63:55:47:A8:2A:77:98:29:E5:C6:07:6C:3A:B1:C9:04:B3"
+      ]
+    }
+  }
+]
